@@ -98,5 +98,3 @@ Develop a solution for mess management. The solution should provide facilities t
     ![](/assets/scan_qr.jpg)
 
     The admin can press "Scan New" to check a new QR code.
-
-## ❤️ Team Zenith
